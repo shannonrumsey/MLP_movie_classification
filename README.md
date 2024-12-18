@@ -1,10 +1,12 @@
 # MLP Movie Classification
 
+```plaintext
 ├── hw1_test.csv
 └── hw1_train.csv
 └── requirements.txt
 ├── run.py
 └──submission.csv
+```
 
 Goal: Create a model that can accurately tag knowledge graph core relations to movie-related utterances. 
 
